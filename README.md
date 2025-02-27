@@ -56,6 +56,7 @@ c) helps maintain a clean and structured repo
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 forking is when you copy someone else's repo on your own Git hub account. With that you can experinment with modifications and changes to the project without affecting the original repo.
+
 |Feature	|Forking	|Cloning|
 |Location	|Creates a copy on your GitHub account|	Creates a local copy on your computer|
 |Purpose	|Used to contribute to another user's repository or maintain a separate version|	Used for local development and working on a repo you already have access to|
@@ -64,6 +65,7 @@ forking is when you copy someone else's repo on your own Git hub account. With t
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 git hub provides issues and project boards as powerful tools for tracking bugs, mnaging tasks and improving project organization. These features enhance collaboration by offering a structured way to document problems, assign tasks and track progress. Issues act as lightweight task management system  within a repository
+
 |Issue|	Label|	Assignee|
 |"App crashes when adding a new task"|	bug	|Mutua|
 |"Add dark mode support"	enhancement|	Janice|
