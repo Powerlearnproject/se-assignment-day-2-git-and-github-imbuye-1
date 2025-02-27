@@ -58,6 +58,7 @@ c) helps maintain a clean and structured repo
 forking is when you copy someone else's repo on your own Git hub account. With that you can experinment with modifications and changes to the project without affecting the original repo.
 
 |Feature	|Forking	|Cloning|
+|---------|---------|--------|
 |Location	|Creates a copy on your GitHub account|	Creates a local copy on your computer|
 |Purpose	|Used to contribute to another user's repository or maintain a separate version|	Used for local development and working on a repo you already have access to|
 |Connection to Original Repo |	Remains linked to the original; you can create pull requests to merge changes |	No direct link to the original once cloned |
@@ -67,6 +68,7 @@ forking is when you copy someone else's repo on your own Git hub account. With t
 git hub provides issues and project boards as powerful tools for tracking bugs, mnaging tasks and improving project organization. These features enhance collaboration by offering a structured way to document problems, assign tasks and track progress. Issues act as lightweight task management system  within a repository
 
 |Issue|	Label|	Assignee|
+|-----|------|----------|
 |"App crashes when adding a new task"|	bug	|Mutua|
 |"Add dark mode support"	enhancement|	Janice|
 |"Improve UI for mobile devices" |UI/UX|	Campell|
